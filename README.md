@@ -2,7 +2,7 @@
 
 Sebuah proyek dashboard analisis keuangan full-stack yang dibuat sebagai bagian dari program magang. Aplikasi ini dirancang untuk membantu pengguna (seperti pemilik toko e-commerce) melacak, mengelola, dan menganalisis data pendapatan dan pengeluaran mereka melalui visualisasi data yang interaktif.
 
-![Contoh Tampilan Dashboard](image/tampilan-dashboard.png)
+![Contoh Tampilan Dashboard](image/tampilandashboard.png)
 
 
 ---

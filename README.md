@@ -21,8 +21,8 @@ Sebuah proyek dashboard analisis keuangan full-stack yang dibuat sebagai bagian 
 
 * **Front-End:** HTML, Tailwind CSS, Chart.js, JavaScript (Fetch API)
 * **Back-End:** PHP
-* **Database:** MySQL (MariaDB)
-* **Server Lokal:** XAMPP (Apache)
+* **Database:** MySQL 
+* **Server Lokal:** XAMPP 
 
 ---
 
